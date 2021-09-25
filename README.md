@@ -1,3 +1,6 @@
+Implementation of 3 scheduling protocols: Round Robin, Weighted Round Robin and Deficit Round Robin. Written in C.
+
+
 In order to build and run the program write these 2 following lines in the shell (replace the values in parentheses):
 make
 ./scheduler (RR/WRR/DRR) (quantum size) (input file) (output file)
